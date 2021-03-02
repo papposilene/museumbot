@@ -1,0 +1,40 @@
+{
+    "name": "papposilene/museumbots",
+    "description": "A personal project for some museum bots.",
+    "type": "project",
+    "license": "MIT",
+    "homepage": "https://github.com/papposilene/museumbots",
+    "authors": [
+        {
+            "name": "Philippe-Alexandre Pierre",
+            "email": "dev@psln.nl",
+            "homepage": "https://dev.psln.nl",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/papposilene/museumbots/issues",
+        "source": "https://github.com/papposilene/museumbots"
+    },
+    "require": {
+        "php": "^7.3|^8.0",
+        "abraham/twitteroauth": "^2.0",
+        "fabpot/goutte": "^4.0",
+        "guzzlehttp/guzzle": "^7.0",
+        "intervention/image": "^2.5",
+        "vlucas/phpdotenv": "^5.3",
+        "xenos/musicbrainz": "^0.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

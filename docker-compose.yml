@@ -1,0 +1,92 @@
+version: '3.7'
+
+networks:
+  museumbots:
+
+services:
+  site:
+    build:
+      context: .
+      dockerfile: .dockerfile/nginx.dockerfile
+    ports:
+      - 8000:8000
+    volumes:
+      - ./:/var/www/html:delegated
+    depends_on:
+      - php
+      - db
+    networks:
+      - museumbots
+
+  db:
+    image: mysql:5.7
+    platform: linux/x86_64
+    restart: always
+    volumes:
+      - db-data:/var/lib/mysql
+    tty: true
+    ports:
+      - 3306:3306
+    environment:
+      MYSQL_DATABASE: museumbots
+      MYSQL_USER: museumbots
+      MYSQL_PASSWORD: secret
+      MYSQL_ROOT_PASSWORD: secret
+      SERVICE_TAGS: dev
+      SERVICE_NAME: mysql
+    networks:
+      - museumbots
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    restart: always
+    depends_on:
+      - php
+      - db
+    environment:
+      - PMA_ARBITRARY=1
+      - PMA_HOST=localhost
+      - PMA_PORT=3306
+    volumes:
+      - db-data:/var/lib/mysql
+    ports:
+      - 8024:80
+    networks:
+      - museumbots
+
+  php:
+    build:
+      context: .
+      dockerfile: .dockerfile/php.dockerfile
+    restart: always
+    depends_on:
+      - db
+    volumes:
+      - ./:/var/www/html:delegated
+    networks:
+      - museumbots
+
+  composer:
+    build:
+      context: .
+      dockerfile: .dockerfile/composer.dockerfile
+    volumes:
+      - ./:/var/www/html
+    working_dir: /var/www/html
+    depends_on:
+      - php
+    entrypoint: ['composer', '--ignore-platform-reqs']
+    networks:
+      - museumbots
+
+  npm:
+    image: node:13.7
+    volumes:
+      - ./:/var/www/html
+    working_dir: /var/www/html
+    entrypoint: ['npm']
+    networks:
+      - museumbots
+
+volumes:
+  db-data:
