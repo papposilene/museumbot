@@ -10,15 +10,6 @@
     <ul>
       <li class="bg-gray-100 mb-4 p-4 rounded">
         <span class=text-xl>
-          <a href="https://twitter.com/louvrobot" class="font-bold no-underline hover:underline" target="_blank" rel="nooepener">LouvrBot</a>
-        </span><br />
-        <span class="text-sm">
-          Je suis un bot qui tweete des oeuvres du <a href="https://www.louvre.fr/" class="no-underline hover:underline" target="_blank" rel="nooepener">@museelouvre</a>.
-          N'hésitez pas à venir les admirer dans les salles !
-        </span>
-      </li>
-      <li class="bg-gray-100 mb-4 p-4 rounded">
-        <span class=text-xl>
           <a href="https://twitter.com/patchedmet" class="font-bold no-underline hover:underline" target="_blank" rel="nooepener">PatchedMET</a>
         </span><br />
         <span class="text-sm">
@@ -27,6 +18,17 @@
           (Crusader Kings 3, The Sims 4, World of Warcraft, etc.).
           Inspired by <a href="https://twitter.com/litpatches_txt" class="no-underline hover:underline" target="_blank" rel="nooepener">@litpatches_txt</a>,
           created by <a href="https://twitter.com/lizardengland" class="no-underline hover:underline" target="_blank" rel="nooepener">@lizardengland</a>.
+        </span>
+      </li>
+      <li class="bg-gray-100 mb-4 p-4 rounded">
+        <span class=text-xl>
+          <a href="https://twitter.com/louvrobot" class="font-bold no-underline hover:underline" target="_blank" rel="nooepener">LouvrBot</a>
+        </span><br />
+        <span class="text-sm">
+          Je suis un bot qui tweete des oeuvres du <a href="https://www.louvre.fr/" class="no-underline hover:underline" target="_blank" rel="nooepener">@museelouvre</a>
+          en allant les récupérer sur la base de données <a href="https://www.louvre.fr/" class="no-underline hover:underline" target="_blank" rel="nooepener">Atlas</a>,
+          (dans l'espoir et l'attente qu'un jour le musée du Louvre (sans parler des autres musées français) dispose de son API).
+          En tout cas, n'hésitez pas à venir les admirer sur place, dans les salles du musée !
         </span>
       </li>
     </ul>
