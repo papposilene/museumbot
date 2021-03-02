@@ -1,20 +1,127 @@
 game,changelog
-Crusader Kings III,mercenaries are no longer guaranteed to include cultural men at arms
-Crusader Kings III,mercenary companies of cultures that have Camel Riders unlocked will no longer include tons of camels for no reason
-Crusader Kings III,armored horsemen and war elephants can now appear in mercenary bands
-Crusader Kings III,"cats and dogs now live a bit longer, appear slightly less often, and trigger events less frequently"
-Crusader Kings III,it’s now easier to divorce openly incestuous spouses
-Crusader Kings III,peasant/populist Revolt leaders can no longer marry
-Crusader Kings III,you can no longer manually add Gender Law exceptions to your held titles
-Crusader Kings III,children can become more inclined to drink later in life if their guardians are a poor influence
-Crusader Kings III,courtiers and guests no longer seek out new lovers when they already have a partner
-Crusader Kings III,AI will now consider breaking up with their AI lovers upon marriage
-Crusader Kings III,"ugly characters now have significantly more varied looks, and look more believably ugly"
-Crusader Kings III,ugly characters now look more ugly by distorting specific facial features more than before
-Crusader Kings III,characters young enough to be sitting in the main menu will now sit in front of the others
-Crusader Kings III,christian faiths with Vows of Poverty will now see their priests dress no more fancy than a simple monk or nun
-Crusader Kings III,a woman being close to the fertility cutoff cap now gives the 'Low Fertility' marriage penalty
-Crusader Kings III,reclusive characters will no longer host feasts
-World of Warcraft,the Frothing Pustule that spawn from the Infinitely Divisible Ooze trinket will now attack Grand Proctor Beryllia in Sanguine Depths
-World of Warcraft,manifestation of Envy no longer fixates pets
-The Sims 4,children will no longer look like they have put a leg through a rocking chair when reacting happily to rocking
+Crusader Kings III,mercenaries are no longer guaranteed to include cultural men at arms.
+Crusader Kings III,mercenary companies of cultures that have Camel Riders unlocked will no longer include tons of camels for no reason.
+Crusader Kings III,armored horsemen and war elephants can now appear in mercenary bands.
+Crusader Kings III,"cats and dogs now live a bit longer, appear slightly less often, and trigger events less frequently."
+Crusader Kings III,it is now easier to divorce openly incestuous spouses.
+Crusader Kings III,peasant/populist Revolt leaders can no longer marry.
+Crusader Kings III,you can no longer manually add Gender Law exceptions to your held titles.
+Crusader Kings III,children can become more inclined to drink later in life if their guardians are a poor influence.
+Crusader Kings III,courtiers and guests no longer seek out new lovers when they already have a partner.
+Crusader Kings III,AI will now consider breaking up with their AI lovers upon marriage.
+Crusader Kings III,"ugly characters now have significantly more varied looks, and look more believably ugly."
+Crusader Kings III,ugly characters now look more ugly by distorting specific facial features more than before.
+Crusader Kings III,characters young enough to be sitting in the main menu will now sit in front of the others.
+Crusader Kings III,christian faiths with Vows of Poverty will now see their priests dress no more fancy than a simple monk or nun.
+Crusader Kings III,a woman being close to the fertility cutoff cap now gives the 'Low Fertility' marriage penalty.
+Crusader Kings III,reclusive characters will no longer host feasts.
+World of Warcraft,the Frothing Pustule that spawn from the Infinitely Divisible Ooze trinket will now attack Grand Proctor Beryllia in Sanguine Depths.
+World of Warcraft,manifestation of Envy no longer fixates pets.
+The Sims 4,children will no longer look like they have put a leg through a rocking chair when reacting happily to rocking.
+Crusader Kings II,you will no longer push yourself to your death.
+Crusader Kings II,your courtiers will now care about their sexuality when they get lovers.
+Crusader Kings II,you can no longer seclude yourself for meditation when you're already meditating.
+Crusader Kings II,dead people looking for books will no longer behave as if alive.
+Crusader Kings II,it is no longer a religious experience to be an Aquarius.
+Crusader Kings II,women can now hunt boars themselves, and also send their daughters to do so.
+Crusader Kings II,loading a save no longer causes the camera to reset to the middle of Europe.
+Crusader Kings II,when eating your prisoners, you can now attract a non-serious disease.
+Crusader Kings II,you can no longer create the kingdom of Hungary more than once.
+Crusader Kings II,concubines should now correctly change courts together with their men.
+Crusader Kings II,dead children should no longer be treated for being sickly.
+Crusader Kings II,court Physicians should no longer ask you to punish them when they mistreat themselves.
+Crusader Kings II,depraved rulers can now choose to torture or mutilate their prisoners.
+Crusader Kings II,when executing a prisoner you will no longer just 'execute' them, instead a culturally appropriate execution method will be chosen!
+Crusader Kings II,you can choose to Publicly Humiliate your foes to sap their prestige.
+Crusader Kings II,Flanders is now properly part of France.
+Crusader Kings II,the marriage AI has been improved.
+Crusader Kings II,the zoom hotkeys (page up/down) now actually work.
+Crusader Kings II,causes of death can now be customized.
+Crusader Kings II,execution method can be chosen via a priority system similar to government flavors.
+Crusader Kings II,lots more Wikipedia links!
+Crusader Kings II,concubines can now forgive you for kidnapping them.
+Crusader Kings II,Aztecs are now guaranteed to arrive as a feudal realm.
+Crusader Kings II,both homosexual characters properly get opinion modifiers when discovered during blot events.
+Crusader Kings II,"executing foreign prisoners no longer give you tyranny, but gives you an opinion malus with everyone in their country instead."
+Crusader Kings II,the longest sound effects are now loaded only when they are needed.
+Crusader Kings II,creating Mongol Empire no longer resets laws.
+Crusader Kings II,favors can now be used to force matrilineal marriages if the other party is providing the woman.
+Crusader Kings II,no longer able to have two wars against the same opponent.
+Crusader Kings II,inaccessible character will not be invited to pagan feasts.
+Crusader Kings II,children and other characters unfit to lead troop will no longer lead siege defense.
+Crusader Kings II,marriages creates non-aggression pacts that can be renegotiated if the arranger of the marriage dies.
+Crusader Kings II,"death sounds differ depending on age, gender and violency of reason for death."
+Crusader Kings II,children no longer request hunting rights.
+Crusader Kings II,discovered murderers of close kin can now be executed without opinion penalty.
+Crusader Kings II,Indians use the correct focus window.
+Crusader Kings II,eunuchs can no longer use seduction focus.
+Crusader Kings II,spy targets are now properly cleared upon death.
+Crusader Kings II,your eunuch sons will no longer get the serving maids pregnant.
+Crusader Kings II,you gave back the Mongols their balls.
+Crusader Kings II,Temujin now starts with some prestige.
+Crusader Kings II,you can now click on links again on Linux!
+Crusader Kings II,uncle opinion modifier now works correct.
+Crusader Kings II,you must now be at least a king level ruler in order to expel the Jews.
+Crusader Kings II,characters who love their spouses very much are now less likely to join holy orders.
+Crusader Kings II,a marriage is now dissolved if one of the spouses joins a holy order.
+Crusader Kings II,characters will not join Holy Orders if spouse is currently pregnant with non-bastard child.
+Crusader Kings II,no longer possible to start observing Ramadan if you are sick.
+Crusader Kings II,paranoid parents should no longer worry about potential plots against dead children.
+Crusader Kings II,you no longer feel like you're partying on your own when inviting people that are not your vassals.
+Crusader Kings II,you no longer punish yourself when a prisoner tries to flee from your prison by charming the guard.
+Crusader Kings II,you no longer feel bad for having a romantic relationship with your spouse.
+Crusader Kings II,you'll no longer try to talk to your dead children when you have the family focus.
+Crusader Kings II,your sparring partner no longer wields a limb-creating healing stick when he accidentally hits you.
+Crusader Kings II,you can no longer arrange a ball in the dungeons.
+Crusader Kings II,tiger hunting no longer disappears after creating a custom Empire in India.
+Crusader Kings II,women will now also ask for a job title if they are allowed to hold it and are more qualified than the current council member.
+Crusader Kings II,lovers in prison can no longer get impregnated normally.
+Crusader Kings II,it is no longer possible to banish your spouse or concubine.
+Crusader Kings II,it is no longer possible to send chancellor to the wrong province in the tutorial.
+Crusader Kings II,"turkish portraits show blinded eyes, boils, scars and red spots correctly now."
+Crusader Kings II,male-only lovers events no longer triggers for women.
+Crusader Kings II,single-only lovers events no longer fires for married characters.
+Crusader Kings II,'S' can now be used as a shortcut to split an army in two.
+Crusader Kings II,you can no longer grant Eunuchs tribal counties.
+Crusader Kings II,you no longer gain religious authority for looting temples of your own religion.
+Crusader Kings II,Jews no longer want boar meat for their feasts.
+Crusader Kings II,tooltips on dead characters now list their primary tier titles.
+Crusader Kings II,decadence tooltip now uses a consistent amount of decimals.
+Crusader Kings II,Muslim rulers now correctly get a negative opinion against Byzantine emperor who renounces iconoclasm.
+Crusader Kings II,loading should be slightly faster.
+Crusader Kings II,building tooltip in the outliner now show the correct name for muslim buildings.
+Crusader Kings II,"all spouses will now move along with courtiers that become landed, instead of just moving the first wife."
+Crusader Kings II,divorces now cost as much prestige as would be gained upon marrying the character.
+Crusader Kings II,"buying indulgence for your sins from the Pope now has a better opinion and piety effect than before, but can only be done once per lifetime."
+Crusader Kings II,impregnation of lovers is now handled in the code.
+Crusader Kings II,characters can now have up to five lovers at the same time.
+Crusader Kings II,"the Nestorians are no longer a heresy, and have their own holy order."
+Crusader Kings II,the decision to acknowledge bastards as your own now works again.
+Crusader Kings II,becoming infirm will now abort self improval ambitions.
+Crusader Kings II,characters now lose the ambition to get married upon becoming eunuchs or homosexual.
+Crusader Kings II,Cathar women can now have the same career ambitions as men.
+Crusader Kings II,compressed saves are now saved with meta data to improve performance.
+Crusader Kings II,localisation of other languages now defaults to English.
+Crusader Kings II,less willing to marry young male characters to older women.
+Crusader Kings II,color table for converter is now in 0-255 range instead of 0-1.
+Crusader Kings II,color table for converter can now script per CK2 title tag as well.
+Crusader Kings II,"women can now die in childbirth, and there can be other complications, like illness and sickly infants."
+Crusader Kings II,concubines will no longer have marriage ambitions as they cannot get married.
+Crusader Kings II,concubines can now have the ambition to have a daughter.
+Crusader Kings II,"the Aztecs, Mongols and Seljuks now spawn with more but smaller regiments."
+Crusader Kings II,the black bastard blood drop is now shown correctly with the new bastard dynasty system.
+Crusader Kings II,Louis II of Italy now has the correct Wikipedia link.
+Crusader Kings II,the Duke of Portucale now has an heir in 867.
+Crusader Kings II,Eudokia is now the Byzantine Empress for six months in 1067.
+Crusader Kings II,Anglo-Saxon England now has feudal elective law.
+Crusader Kings I,now natives no longer should spawn in Africa.
+Crusader Kings I,"if a character of special interest dies, they will now be removed from characters of special interest."
+Crusader Kings I,dead spouses are now shown with the old previous/next spouse buttons.
+Crusader Kings I,birth rates have been reduced a lot.
+Crusader Kings I,posthumously born children of Doges no longer get a claim on the Republic.
+Crusader Kings I,the names of Interesting Muslims should now be displayed correctly.
+Crusader Kings I,friends and rivals events should now be a bit more common.
+Crusader Kings I,Gyda Eiriksdottir now has the correct father.
+Crusader Kings I,Hoël of Nantes is no longer lowborn.
+Crusader Kings I,Burgonde de Bachaumont is now properly female.
+Crusader Kings I,more nasty plots against overly powerful dynasties.
