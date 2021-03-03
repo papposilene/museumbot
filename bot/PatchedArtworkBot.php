@@ -65,8 +65,10 @@ $patchLog = array_rand($patchCsv);
 /*
  * Create a tweet, then post it to Twitter
  */
-// TODO: mb_strimwidth("Hello World", 0, 10, "...");
-$tweet = $objectData['title'] . ' by ' . $objectData['artistDisplayName'] . ', but in which ' . $patchCsv[$patchLog]['changelog'];
+$artistDisplayName = (!empty($objectData['artistDisplayName']) ? $objectData['artistDisplayName'] : 'Anonymous');
+
+// Generate the tweet's text
+$tweet = $objectData['title'] . ' by ' . $artistDisplayName . ', but in which ' . $patchCsv[$patchLog]['changelog'];
 if(strlen($tweet) > 280) {
     $title = mb_strimwidth($objectData['title'], 0, 20, '...');
     $tweet = $title . ' by ' . $objectData['artistDisplayName'] . ', but in which ' . $patchCsv[$patchLog]['changelog'];
